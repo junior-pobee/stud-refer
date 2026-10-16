@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="https://github.com/">
+<a href="https://github.com/junior-pobee/Adapt_student.ED">
   <img src="https://img.shields.io/badge/PROJECT-ADAPT%20OS-7965FF?style=for-the-badge&logo=github&logoColor=white" alt="ADAPT OS Project">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
